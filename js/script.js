@@ -1,6 +1,3 @@
-var argMoveNumber;
-
-
 /**
  * Describe this function...
  */
